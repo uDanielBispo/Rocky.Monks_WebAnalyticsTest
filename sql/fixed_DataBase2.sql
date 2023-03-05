@@ -1,0 +1,12 @@
+CREATE TABLE 'fixed_DataBase2' (id_marca INTEGER,marca TEXT);
+INSERT INTO 'fixed_DataBase2' (id_marca, marca) VALUES ('1', 'Fiat');
+INSERT INTO 'fixed_DataBase2' (id_marca, marca) VALUES ('2', 'Volkswagen');
+INSERT INTO 'fixed_DataBase2' (id_marca, marca) VALUES ('3', 'Kia');
+INSERT INTO 'fixed_DataBase2' (id_marca, marca) VALUES ('4', 'Peugeot ');
+INSERT INTO 'fixed_DataBase2' (id_marca, marca) VALUES ('5', 'Toyota');
+INSERT INTO 'fixed_DataBase2' (id_marca, marca) VALUES ('6', 'Nissan');
+INSERT INTO 'fixed_DataBase2' (id_marca, marca) VALUES ('7', 'Mitsubishi');
+INSERT INTO 'fixed_DataBase2' (id_marca, marca) VALUES ('8', 'Subaru');
+INSERT INTO 'fixed_DataBase2' (id_marca, marca) VALUES ('9', 'Chevrolet ');
+INSERT INTO 'fixed_DataBase2' (id_marca, marca) VALUES ('10', 'JaC Motors');
+INSERT INTO 'fixed_DataBase2' (id_marca, marca) VALUES ('11', 'Renault');
